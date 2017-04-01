@@ -1,0 +1,23 @@
+
+
+table{
+	  font-family: 'Nova Oval', cursive;
+	  border-collapse: collapse;
+      width: 100%;
+	
+		}
+
+tr:hover{background-color:#F3E5F5 }
+
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+
+}
+
+tr:nth-child(even){background-color:#C5CAE9}
+tr:nth-child(odd){background-color:#F3E5F5 }
+td.Sr{background-color:#F3E5F5 }
+th{background-color:#7986CB}

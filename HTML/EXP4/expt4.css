@@ -1,0 +1,71 @@
+body{background-image:url(image6.jpg);
+	 background-size: 1380px 680px;
+	 background-repeat:no-repeat; 
+
+	  }
+
+div.transbox {
+    margin: 20px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 25px;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 18px solid transparent;
+    border-image: url(back9.jpg) 30 stretch;}
+
+
+div.transbox h1 {
+    margin: 2%;
+    font-weight: bold;
+    color: #000000;
+    text-align: center; ;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 55px;
+
+}
+
+p{position: absolute; bottom:1px; left: 500px; 
+  word-wrap: break-word;
+  width: 15em;
+  font-family: 'Marck Script', cursive;
+  color: white;
+  font-size: 29px;
+  border-radius:25px;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 18px solid transparent;
+    border-image: url(back9.jpg) 30 stretch;
+
+  }
+
+
+.vertical{ width: 400px;
+		 position: absolute; bottom:80px; left: 45px;
+		border-radius:25px;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 18px solid transparent;
+    border-image: url(back9.jpg) 30 stretch;}
+
+.vertical a{ background-color: #eee;
+			 color: black;
+			 display: block;
+			 padding: 15px;
+			 text-decoration: none;
+			 font-family: 'Architects Daughter', cursive;
+			 font-size: 25px;
+
+}
+
+.vertical a:hover{ background-color: #ccc;}
+
+.vertical a.home{ background-color:#5DADE2 ;
+   				    color: white;}
+
+img{
+	border-radius:25px;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 18px solid transparent;
+    border-image: url(back9.jpg) 30 stretch;
+}
+
