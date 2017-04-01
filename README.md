@@ -1,3 +1,3 @@
 # HTML
 HTML projects
-trying out git
+Sem 8 practicals
